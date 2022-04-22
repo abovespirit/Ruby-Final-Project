@@ -1,2 +1,0 @@
-C:\Users\crc91\Desktop\Rubys Adventure\dig3480-s22-t3-rubys_new_adventure-abovespirit\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-C:\Users\crc91\Desktop\Rubys Adventure\dig3480-s22-t3-rubys_new_adventure-abovespirit\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
